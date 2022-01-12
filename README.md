@@ -1,75 +1,64 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# React-Todos-App
 
-# Project Name
+"React-Todos-App" is a single page application (SPA) built with React specifically this is a tutorial exercise to help beginners learn react with ease"
 
-> One paragraph statement about the project.
+![calcul](https://user-images.githubusercontent.com/57562869/128854718-9eef3b78-0226-4c17-a049-bcdc487c4d91.png)
 
-![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+> This is a React Tutorial For Beginners.
+
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- ReactJS
+- Css
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
 
 ### Setup
 
+```bash
+git@github.com:KayLemba/kaylos-react-todo-app.git
+cd ./kaylos-react-todo-app
+```
+
 ### Install
 
-### Usage
+```bash
+npm install
+```
 
-### Run tests
+### To Run it
 
-### Deployment
+```bash
+npm start
+```
 
+### Build
 
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+```bash
+npm run build
+```
+## Author
+👤 **Kalolo Chola Lemba**
+- GitHub: [@KayLemba](https://github.com/KayLemba)
+- Twitter: [@King-Kaylo1](https://twitter.com/King_Kaylo1) 
+- LinkedIn: [@kalolo-lemba](https://www.linkedin.com/in/https://www.linkedin.com/in/kalolo-lemba-41a8339a/-41a8339a/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project! ❤️ ❤️ ❤️ 
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 
